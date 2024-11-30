@@ -1,7 +1,5 @@
 # Markdown Converter Chrome Extension
 
-![Markdown Converter Screenshot](icons/screenshot.png)
-
 ## 🚀 Overview
 
 Welcome to the Markdown Converter Chrome Extension! This nifty tool allows you to convert any webpage into clean, LLM-friendly text using the power of Jina AI. With just a click, transform complex web content into a streamlined format perfect for further processing or analysis.
