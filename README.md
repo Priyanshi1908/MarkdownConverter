@@ -1,6 +1,6 @@
 # Markdown Converter Chrome Extension
 
-![Markdown Converter Screenshot](icons/screenshot.png)
+![Markdown Converter Screenshot](icons/ss.png)
 
 ## 🚀 Overview
 
